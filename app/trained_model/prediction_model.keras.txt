@@ -1,0 +1,2 @@
+model size is large
+I've made a code cell where you can download the prediction model file
